@@ -6,6 +6,7 @@ The data used for this project are an open source datas from Instacart.
 Citation (required in your final report): “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 12/03/2022.
 
 # Tools
+The folllowing tools and skills were used in this project.
 - Python
 - Data Wrangling
 - Data Merging
