@@ -1,7 +1,7 @@
 # Objective
-Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. 
+Instacart is an online grocery store that operates through an app. Instacart already has excellent sales but wants to uncover more information about its sales patterns.
 
-I was ask to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
+I was asked to perform an initial data and exploratory analysis of some of their data to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
 # Data
 The data used for this project are an open source datas from Instacart.
